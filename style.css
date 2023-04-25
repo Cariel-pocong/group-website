@@ -1,4 +1,4 @@
-h1, p, img, table, h2, figcaption {
+h1, p, img, table, h2, figcaption{
     font-family: monospace;
     background-color: transparent;
     color:antiquewhite;
@@ -107,7 +107,8 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: transparent;
-    
+  color:antiquewhite;
+   
 }
 
 li {
@@ -138,12 +139,9 @@ h4{
     height: 100%;
     margin-left: 20%;
 }
-   
-    
-    
-    
-    
-    
+ul{font-family: monospace;
+    background-color: transparent;
+    color:antiquewhite;}
     
     
     
