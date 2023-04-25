@@ -29,7 +29,7 @@ body{
     margin: 0px;
     padding: 0px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-image: url(/images/keyboard.jpg);
+    background-image: url(images/keyboard.jpg);
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
